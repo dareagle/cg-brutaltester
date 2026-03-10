@@ -119,6 +119,8 @@ This is not an official roadmap at all.
 
 If you have a bug or a problem with one of these referees, create an issue of the github project of the referee, not on cg-brutaltester project. This may not be a full list of available referees for cg-brutaltester. If you want to add a referee to this list, just make a pull request.
 
+ * Winter challenge 2026 - SnakeByte:
+   * https://github.com/aexg/WinterChallenge2026-Exotec
  * Winter challenge 2024:
    * https://github.com/aexg/WinterChallenge2024-Cellularena
  * Cultist Wars
